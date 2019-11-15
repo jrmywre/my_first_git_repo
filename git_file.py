@@ -6,7 +6,4 @@ def init():
     return 'How are you?'
 
 def hi_there():
-    print("update python function with merge conflict")
-    
-    
-    
+    return 'My local change'
